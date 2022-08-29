@@ -1,0 +1,19 @@
+This favicon was generated using the following font:
+
+
+
+- Font Title: Montserrat
+- Font Author: Copyright 2011 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat)
+- Font Source: http://fonts.gstatic.com/s/montserrat/v21/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-Y3tcoqK5.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
+
+
+L sign - <a href="https://www.flaticon.com/free-icons/learner" title="learner icons">Learner icons created by Smashicons - Flaticon</a>
+
+Steering wheel - <a href="https://www.flaticon.com/free-icons/drive" title="drive icons">Drive icons created by Freepik - Flaticon</a>
+
+Road - <a href="https://www.flaticon.com/free-icons/road" title="road icons">Road icons created by Freepik - Flaticon</a>
+
+red car - <a href="https://www.flaticon.com/free-icons/learner" title="learner icons">Learner icons created by Smashicons - Flaticon</a>
+
+black and white road - <a href="https://www.flaticon.com/free-icons/road" title="road icons">Road icons created by Freepik - Flaticon</a>
