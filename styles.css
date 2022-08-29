@@ -1,0 +1,394 @@
+/*PAGE STYLING*/
+
+html body{
+  margin: 0;
+  padding: 0;
+  color: #444444;
+  /* font-family: 'PT Mono', monospace; */
+  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Comfortaa', cursive;
+  /* font-family: 'Dosis', sans-serif; */
+  height: 100%;
+  position: relative;
+  background-color: #EDF4F2;
+
+  }
+
+h1{
+  font-weight: bold;
+  font-size: 2em;
+  height: auto;
+  margin-bottom: 10px;
+  opacity: 1;
+  color: #444444;
+    }
+
+h2{
+    color: #69B42E;
+    text-align: center;
+    padding: 20px;
+    }
+
+p{
+  text-align: center;
+    }
+
+a{
+  color: #444444;
+    }
+
+a:hover{
+  color: #69B42E;
+    }
+
+hr{
+  height: 2px;
+  color: #444444;
+  padding: 0;
+  margin: auto;
+  width: 100%;
+}
+
+.road-div{
+  margin: 50px auto;
+  text-align: center;
+}
+.road-image{
+  height: 80px;
+
+}
+
+
+/*NAVBAR*/
+.navbar{
+  height: 120px;
+  width: 100%;
+  background-color:  #EDF4F2;
+
+  }
+
+
+.navbar-nav{
+  margin-left: 50px;
+  font-size: 20px;
+  color: #EDF4F2;
+}
+
+.nav-img{
+  text-align: right;
+  width: 100%;
+  margin-right: 50px;
+}
+
+.navbar-logo{
+  height: 100px;
+  text-align: right;
+}
+
+.main-section{
+  /* position: relative; */
+  /* background-color: #F3F5D5; */
+  width: 100%;
+
+}
+
+/*TOP-CONTAINER*/
+
+.img-car{
+  width: 100%;
+  height: auto;
+  /* position: absolute;
+  top: 120px; */
+}
+
+/*ABOUT-ME*/
+.container-row-about{
+  margin: 0;
+}
+
+.aboutme{
+  padding: 50px 0;
+
+}
+.about-img{
+  height: 170px;
+  }
+
+.about-image{
+  text-align: center;
+}
+
+.about-text{
+  padding-top: 30px;
+  text-align: center;
+}
+
+.span-about{
+  color: #F9BA0D;
+}
+
+
+/*PRICING*/
+
+.pricing{
+  padding: 50px 0;
+}
+
+.pricing-boxes{
+  padding: 30px 0;
+}
+
+.pricing-1 .pricing-2 .pricing3 {
+  width: 200px;
+  height: 200px;
+  background-color: #F3F5D5;
+  /* float:right; */
+  margin-right: 10px;
+  border: solid #444444;
+
+ }
+
+.card{
+  position:static;
+}
+
+.card-header{
+  background-color: #F9BA0D;
+}
+
+.pricing-button{
+  text-align: center;
+  padding: 20px;
+}
+
+.p-pricing{
+  margin: 20px;
+}
+
+ul{
+  list-style: none;
+  margin: 0;
+  padding:0;
+}
+
+.span-pricing{
+  font-weight: bold;
+}
+
+.card-pricing1{
+  padding-bottom: 40px;
+}
+
+/*TESTIMONIALS*/
+
+.disabled{
+  pointer-events: none;
+}
+
+.reviews{
+  padding: 50px 0;
+}
+.reviews-content{
+  width: 100%;
+  margin: auto;
+}
+
+.review-img{
+  width: 100px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  }
+
+.p-review{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+span{
+  font-weight: bold;
+}
+
+/*CONTACT-ME*/
+
+.contactme{
+  padding: 50px 0 50px;
+}
+
+.contactme-p{
+  width: 45%;
+  margin:auto;
+  padding: 20px;
+}
+
+.form{
+  background-color:white;
+  text-align: left;
+  width: 40%;
+  margin: 20px auto 40px;
+  padding: 20px;
+
+}
+
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 10px;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 10px;
+}
+
+textarea{
+  height: 150px;
+}
+
+.form-box{
+  width: 100%;
+}
+
+label{
+  text-align: left;
+  /* margin-bottom: 0 20px; */
+  color: #444444;
+  display: inline-block;
+
+}
+
+.btn{
+  background-color: #69B42E;
+  }
+
+.div-button{
+    text-align: center;
+    width: 100%;
+}
+
+.btn:hover{
+  background-color: #F9BA0D;
+}
+
+
+
+footer{
+  background-color: white;
+  height: auto;
+  width: 100%;
+  margin: 0;
+    }
+
+
+.social-icons{
+  text-align: center;
+  padding-top: 30px;
+  }
+
+.social-logo{
+  padding: 10px;
+}
+
+.footer-text{
+  color: #444444;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  line-height: 0.7;
+  font-size: 16px;
+}
+
+.footer-copyright{
+  color: #F9BA0D;
+}
+
+.copyright{
+font-size: 12px;
+height: 40px;
+margin-bottom: 10px;
+}
+
+.footer-content{
+height: 100%;
+display: flex;
+align-items: center;
+padding:0;
+width:100%;
+margin: auto;
+
+}
+
+.footer-logo{
+  height: 50px;
+  padding-right: 20px;
+}
+
+.credits{
+  font-size: 12px;
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+.footer-links{
+  padding-top: 30px;
+}
+.t-and-c{
+  padding: 10px;
+  display: block;
+  text-align: left;
+}
+
+.top-div-privacy{
+  text-align: center;
+  margin: auto;
+}
+.privacypolicy-logo{
+  height: 150px;
+  padding: 20px 0;
+}
+
+.privacy-text{
+  text-align: left;
+  margin: 0 50px;
+}
+
+.privacy-bold-text{
+  font-weight: bold;
+}
+
+/*MEDIA QUERIES*/
+
+@media screen and (max-width: 1040px) {
+  .col-25, .col-75, .form-box, label {
+    width: 100%;
+    display:block;
+  }
+  .footer-button{
+    width: 100%;
+    margin-top: 20px;
+  }
+  .navbar{
+    overflow:visible;
+    height: 250px;
+  }
+
+  .navbar-logo{
+  visibility: hidden;
+  }
+  .
+  .row{
+    margin:0;
+  }
+
+  .footer-boxes{
+    text-align: center;
+  }
+
+.credits{
+  text-align: center;
+  padding: 20px;
+}
+
+  .t-and-c{
+    text-align: center;
+  }
+}
